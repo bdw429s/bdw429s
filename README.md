@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bdw429s" target="blank"><img src="https://img.shields.io/twitter/follow/bdw429s?logo=twitter&style=for-the-badge" alt="bdw429s" /></a> </p>
 
-- I'm currently the lead dev on [CommandBox CLI](https://commandbox.ortusbooks.com/)
+- I'm currently the lead developer on [CommandBox CLI](https://commandbox.ortusbooks.com/)
 
 - 🌱 I'm also a contributor to **Lucee Server**
 
