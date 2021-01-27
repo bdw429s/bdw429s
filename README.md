@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A quick comparison of using Python and CFML to write the same CLI tool](http://wwvv.codersrevolution.com/blog/a-quick-comparison-of-using-python-and-cfml-to-write-the-same-cli-tool)
 - [Create your own Desktop "Toaster" Popups in CommandBox Servers](http://wwvv.codersrevolution.com/blog/create-your-own-desktop-toaster-popups-in-commandbox-servers)
 - [Improving Lucee's Query of Query Support](http://wwvv.codersrevolution.com/blog/improving-lucees-query-of-query-support)
 - [Who's had more vulns, take 3: Java, ColdFusion, ROR, .NET](http://wwvv.codersrevolution.com/blog/whos-had-more-vulns-take-3-java-coldfusion-ror-net)
-- [A Quick Example Of Functional Programming (FP) In CFML](http://wwvv.codersrevolution.com/blog/a-quick-example-of-functional-programming-fp-in-cfml)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
