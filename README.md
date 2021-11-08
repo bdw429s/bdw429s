@@ -29,8 +29,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Detect if a User is Online with RabbitMQ Web Stomp](https://wwvv.codersrevolution.com/blog/detect-if-a-user-is-online-with-rabbitmq-web-stomp)
 - [A quick comparison of using Python and CFML to write the same CLI tool](https://wwvv.codersrevolution.com/blog/a-quick-comparison-of-using-python-and-cfml-to-write-the-same-cli-tool)
-- [Create your own Desktop "Toaster" Popups in CommandBox Servers](https://wwvv.codersrevolution.com/blog/create-your-own-desktop-toaster-popups-in-commandbox-servers)
-- [Improving Lucee's Query of Query Support](https://wwvv.codersrevolution.com/blog/improving-lucees-query-of-query-support)
+- [Create your own Desktop &quot;Toaster&quot; Popups in CommandBox Servers](https://wwvv.codersrevolution.com/blog/create-your-own-desktop-toaster-popups-in-commandbox-servers)
+- [Improving Lucee&#39;s Query of Query Support](https://wwvv.codersrevolution.com/blog/improving-lucees-query-of-query-support)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
