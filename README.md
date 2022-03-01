@@ -33,7 +33,7 @@
 - [Improving Lucee&#39;s Query of Query Support](https://wwvv.codersrevolution.com/blog/improving-lucees-query-of-query-support)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/bdw429s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bdw429s" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brad-wood-92043335" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brad-wood-92043335" height="30" width="40" /></a>
