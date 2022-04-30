@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/brad-wood-92043335/](https://www.linkedin.com/in/brad-wood-92043335/)
 
-- ⚡ Fun fact **I have an aquarium**
+- ⚡ Fun fact **I have an aquarium** 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
