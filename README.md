@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brad Wood </h1>
+<h1 align="center">Hi 👋, I'm Brad Wood </h1> 
 <h3 align="center">A programming band nerd and family guy from Kansas</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdw429s&label=Profile%20views&color=0e75b6&style=flat" alt="bdw429s" /> </p>
