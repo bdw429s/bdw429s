@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Detect if a User is Online with RabbitMQ Web Stomp](http://www.codersrevolution.com/blog/detect-if-a-user-is-online-with-rabbitmq-web-stomp)
-- [A quick comparison of using Python and CFML to write the same CLI tool](http://www.codersrevolution.com/blog/a-quick-comparison-of-using-python-and-cfml-to-write-the-same-cli-tool)
-- [Create your own Desktop &quot;Toaster&quot; Popups in CommandBox Servers](http://www.codersrevolution.com/blog/create-your-own-desktop-toaster-popups-in-commandbox-servers)
-- [Improving Lucee&#39;s Query of Query Support](http://www.codersrevolution.com/blog/improving-lucees-query-of-query-support)
+- [Detect if a User is Online with RabbitMQ Web Stomp](https://www.codersrevolution.com/blog/detect-if-a-user-is-online-with-rabbitmq-web-stomp)
+- [A quick comparison of using Python and CFML to write the same CLI tool](https://www.codersrevolution.com/blog/a-quick-comparison-of-using-python-and-cfml-to-write-the-same-cli-tool)
+- [Create your own Desktop &quot;Toaster&quot; Popups in CommandBox Servers](https://www.codersrevolution.com/blog/create-your-own-desktop-toaster-popups-in-commandbox-servers)
+- [Improving Lucee&#39;s Query of Query Support](https://www.codersrevolution.com/blog/improving-lucees-query-of-query-support)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me: </h3>
