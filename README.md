@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [BoxLang Query Of Query Improvements and Additions](https://www.codersrevolution.com/blog/boxlang-query-of-query-improvements-and-additions)
 - [BoxLang&#39;s QoQ Is Here, And It&#39;s 5x Faster Than Lucee, 17x Faster Than Adobe!](https://www.codersrevolution.com/blog/boxlangs-qoq-is-here-and-its-5x-faster-than-lucee-17x-faster-than-adobe)
 - [Improving Lucee&#39;s QoQ Support Again- now 200% faster](https://www.codersrevolution.com/blog/improving-lucees-qoq-support-again-now-200-faster)
 - [Detect if a User is Online with RabbitMQ Web Stomp](https://www.codersrevolution.com/blog/detect-if-a-user-is-online-with-rabbitmq-web-stomp)
-- [A quick comparison of using Python and CFML to write the same CLI tool](https://www.codersrevolution.com/blog/a-quick-comparison-of-using-python-and-cfml-to-write-the-same-cli-tool)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me: </h3>
